@@ -1,0 +1,47 @@
+@font-face {
+    font-family: wenDing;
+    src: url("../font/WenDingHuangYangJianWeiTi-2.ttf");
+}
+@font-face {
+    font-family: pinyinti;
+    src: url("../font/FenPinYinTi-2.ttf");
+}
+@font-face {
+    font-family: shengshengdi;
+    src: url("../font/LiZiXiaoYuShengShengJian-2.ttf");
+}
+@font-face {
+    font-family: zongyiti;
+    src: url("../font/AiDuZongYiJianTi-2.ttf");
+}
+@font-face {
+    font-family: gangbiti;
+    src: url("../font/DingDingWoYiQingChenTi-2.ttf");
+}
+@font-face {
+    font-family: caiyunti;
+    src: url("../font/HuaWenCaiYun-1.ttf");
+}
+#frame {
+    /* background: url(20.jpg) no-repeat; */
+    width: 90%;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+}
+#container{
+    width: 90%;
+}
+#context {
+    height: 100%;
+    width: 100%;
+    text-align: initial;
+    background-color: rgb(1, 170, 237);
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+#reduce{
+    margin: 10px;
+}
